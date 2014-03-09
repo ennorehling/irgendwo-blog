@@ -1,0 +1,10 @@
+*.html  text
+*.md    text
+*.css   text
+*.yml   text
+*.txt   text
+*.js    text
+*.scss  text
+
+# Shell scripts should *always* be LF
+*.sh    text eol=lf
