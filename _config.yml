@@ -21,6 +21,9 @@ subscribe_email:
 # RSS feeds can list your email address if you like
 email:
 
+# photos that have no path (no / in them) will use this prefix:
+photos_prefix: http://i.imgur.com/
+
 # Automatic thumbnail generation for these galleries:
 mini_magick:
   gallery_1_thumbnail:
