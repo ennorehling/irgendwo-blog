@@ -8,4 +8,20 @@ categories: [scotland, trips, photos]
 
 ---
 
+## remote url
 {% img fancybox http://2.bp.blogspot.com/-a-yA1nvc0Js/Uw-1hPF_AlI/AAAAAAAADCA/IPdCXZSP3XA/s1600/nb2.JPG %}
+
+## local file
+{% img fancybox /images/photos/nb2.JPG %}
+
+## photo plugin
+
+{% photo http://i.imgur.com/IeU2orc.jpg My Photo %}
+
+## Photo gallery
+
+{% gallery %}
+hB8fE40.jpg: imgur test 1
+http://i.imgur.com/VBcAZF5.jpg: imgur test 2
+http://i.imgur.com/IeU2orc.jpg: imgur test 3
+{% endgallery %}
