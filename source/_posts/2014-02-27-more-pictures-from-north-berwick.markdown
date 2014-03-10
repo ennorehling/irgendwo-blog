@@ -8,4 +8,4 @@ categories: [scotland, trips, photos]
 
 ---
 
-{% img fancybox /images/photos/nb2.JPG %}
+{% img fancybox http://2.bp.blogspot.com/-a-yA1nvc0Js/Uw-1hPF_AlI/AAAAAAAADCA/IPdCXZSP3XA/s1600/nb2.JPG %}
