@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Urlaub"
+date: 2014-03-03 12:00:00
+comments: true
+published: true
+categories: [scotland, trips, photos]
+
+---
+
+Freitag bis Sonntag in Fortrose - und so viel erlebt, es fühlt sich an
+als wäre ich im Urlaub gewesen. 
+
+<!-- more -->
+
+{{ 'fortrose-2014-03-03' | image_list }}
+
+Traumhaus am Meer - auf meiner Wunschliste.

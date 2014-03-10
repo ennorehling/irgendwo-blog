@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Irgendwo
+subtitle: Everything has been figured out, except how to live.
+author: Anke
 simple_search: http://google.com/search
 description:
 
@@ -20,6 +20,15 @@ subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
+
+# Automatic thumbnail generation for these galleries:
+mini_magick:
+  gallery_1_thumbnail:
+    source: images/galleries/fortrose-2014-03-03
+    destination: images/galleries/fortrose-2014-03-03/thumbs
+    commands:
+      - thumbnail: "140x140^"
+      - crop: "140x140-0x0"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
